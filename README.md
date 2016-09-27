@@ -7,10 +7,8 @@ This includes python 2.7.9 and the necessary libraries we will be using: "numpy"
 
 ### Install Packages with pip
 
-Installing required packages using "pip"
-
 Open your terminal and check whether you have the "pip" function installed by typing pip (and enter).
-If you do not have pip installed, check the link: [https://pip.pypa.io/en/latest/installing/](https://pip.pypa.io/en/latest/installing/) (If installing via the terminal/command line, ensure you are in the directory where you have downloaded the file "get-pip" or if using chrome right-click on the link to download, save to desktop, and simply double click on the executable).
+If you do not have pip installed, check  [https://pip.pypa.io/en/latest/installing/](this) link. (If installing via the terminal/command line, ensure you are in the directory where you have downloaded the file "get-pip" or if using chrome right-click on the link to download, save to desktop, and simply double click on the executable).
 
 You may need to use `sudo pip install` (for OSX, *nix, etc) or run your command shell as Administrator (for Windows) to be able to perform the installation of the following individual packages:
 

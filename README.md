@@ -45,7 +45,7 @@ Alternatively, click on the "Download ZIP" button under [https://github.com/camb
 
 ### Finalise the setup
 
-Open and run the "[load_libraries.ipynb](https://github.com/cambridgecoding/intro-to-datascience.git/load_libraries.ipynb)" file, and check whether the libraries have been successfully loaded.
+Open and run the "[load_libraries.ipynb](https://github.com/cambridgecoding/intro-to-datascience/blob/master/load_libraries.ipynb)" file, and check whether the libraries have been successfully loaded.
 
 To execute the notebook, in your terminal run:
 

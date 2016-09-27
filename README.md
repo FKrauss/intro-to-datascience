@@ -14,6 +14,7 @@ If you do not have pip installed, check the link: [https://pip.pypa.io/en/latest
 
 You may need to use `sudo pip install` (for OSX, *nix, etc) or run your command shell as Administrator (for Windows) to be able to perform the installation of the following individual packages:
 
+    (sudo) pip install seaborn
     (sudo) pip install Plotly
 
 If you already have any of the previously-mentioned libraries installed, you can update them to a newer version using the syntax:

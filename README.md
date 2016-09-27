@@ -1,11 +1,11 @@
 # Introduction to Data Science Setup Instructions
 
-## Install Python
+### Install Python
 
 Install Anaconda (**Python 2.7**) from:  [https://www.continuum.io/downloads](https://www.continuum.io/downloads)
 This includes python 2.7.9 and the necessary libraries we will be using: "numpy", "scipy" and "scikit-learn"
 
-## Install Packages with pip
+### Install Packages with pip
 
 Installing required packages using "pip"
 
@@ -24,17 +24,17 @@ If you already have any of the previously-mentioned libraries installed, you can
 where `<package>` can be any of the libraries mentioned above.
 
 
-## Install git
+### Install git
 
 Install git if you don't have it: [http://git-scm.com/](http://git-scm.com/)
 
 
-##  Sign up for a GitHub
+###  Sign up for a GitHub
 
 Sign up for a GitHub account or sign in if you have one: [github.com](https://github.com)
 
 
-## Clone or download the code from the CCA GitHub repository
+### Clone or download the code from the CCA GitHub repository
 
 You can create a copy of the provided code on your local machine by using the "git clone" command on your console: 
 
@@ -43,7 +43,7 @@ You can create a copy of the provided code on your local machine by using the "g
 Alternatively, click on the "Download ZIP" button under [https://github.com/cambridgecoding/intro-to-datascience.git](https://github.com/cambridgecoding/intro-to-datascience.git)
 
 
-## Finalise the setup
+### Finalise the setup
 
 Open and run the "[load_libraries.ipynb](https://github.com/cambridgecoding/intro-to-datascience.git/load_libraries.ipynb)" file, and check whether the libraries have been successfully loaded.
 

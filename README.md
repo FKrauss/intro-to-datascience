@@ -1,5 +1,9 @@
 # Introduction to Data Science Setup Instructions
 
+### Primer on Pandas
+
+Throughout the bootcamp we will be working with a python library called `pandas` that is very useful for data handling. To get the most from the course, it is worth to have a look at [this primer](https://github.com/cambridgecoding/intro-to-datascience/blob/master/pandas_primer.ipynb) that covers all the functionality that we will be using.
+
 ### Install Python
 
 Install Anaconda (**Python 2.7**) from:  [https://www.continuum.io/downloads](https://www.continuum.io/downloads)
@@ -36,7 +40,7 @@ Sign up for a GitHub account or sign in if you have one: [github.com](https://gi
 
 ### Clone or download the code from the CCA GitHub repository
 
-You can create a copy of the provided code on your local machine by using the "git clone" command on your console: 
+You can create a copy of the provided code on your local machine by using the "git clone" command on your console:
 
     git clone https://github.com/cambridgecoding/machinelearningintro.git
 
@@ -55,4 +59,3 @@ To execute the notebook, in your terminal run:
 * You can run the whole notebook in a single step by clicking on the menu Cell -> Run All.
 * To restart the kernel (i.e. the computational engine), click on the menu Kernel -> Restart. This can be useful to start over a computation from scratch (e.g. variables are deleted, open files are closed, etc...).
 * Click on the menu Help -> User Interface Tour for an overview of the Jupyter Notebook App user interface.
-

@@ -43,6 +43,7 @@ You can create a copy of the provided code on your local machine by using the "g
 
 Alternatively, click on the "Download ZIP" button under [https://github.com/cambridgecoding/intro-to-datascience](https://github.com/cambridgecoding/intro-to-datascience)
 
+![clone_or_download](https://github.com/cambridgecoding/intro-to-datascience/blob/master/clone_or_download.png) 
 
 ### Finalise the setup
 

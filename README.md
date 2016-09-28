@@ -32,6 +32,7 @@ where `<package>` can be any of the libraries mentioned above.
 **This step is only required if you are using git clone and not download in the next step**
 
 Install git if you don't have it: [http://git-scm.com/](http://git-scm.com/)
+
 Sign up for a GitHub account or sign in if you have one: [github.com](https://github.com)
 
 
